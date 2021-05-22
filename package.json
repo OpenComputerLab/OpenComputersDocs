@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "vuepress": "^1.8.2",
+    "vuepress-plugin-right-anchor": "^0.5.0"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "dependencies": {}
+}
