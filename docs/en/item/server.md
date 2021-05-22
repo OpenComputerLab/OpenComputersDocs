@@ -30,7 +30,7 @@ The Server (Tier 2) can be crafted using the following recipe:
 - 2 x [Microchip (Tier 2)](/item/materials)
 - 1 x [Printed Circuit Board](/item/materials)
 
-      {{:recipes:items:t2server.png?nolink&200}}
+![](https://ocdoc.cil.li/_media/recipes:items:t2server.png)
 
 The Server (Tier 3) can be crafted using the following recipe:
 
@@ -39,4 +39,4 @@ The Server (Tier 3) can be crafted using the following recipe:
 - 3 x [Microchip (Tier 3)](/item/materials)
 - 1 x [Printed Circuit Board](/item/materials)
 
-      {{:recipes:items:t3server.png?nolink&200}}
+![](https://ocdoc.cil.li/_media/recipes:items:t3server.png)
