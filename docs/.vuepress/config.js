@@ -1,7 +1,12 @@
 module.exports = {
   base: "/",
   plugins: [
-    ['vuepress-plugin-right-anchor']
+    ['vuepress-plugin-right-anchor', {
+      expand: {
+        trigger: 'click',
+        clickModeDefaultOpen: true
+      },
+    }]
   ],
   locales: {
     '/': {
