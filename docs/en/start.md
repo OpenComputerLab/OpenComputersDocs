@@ -103,13 +103,12 @@ busy with unnecessary tasks. The exact power consumption can be
 configured in the config file and even be completely removed if you wish
 to run in a power-free environment.
 
-OpenComputers mod provides electrostatic power generation with [Carpeted
-Capacitor](/block/carpeted_capacitor) as well as with [Generator
-Upgrade](/item/generator_upgrade) available to robots and [Solar
-Generator Upgrade](/item/solar_generator_upgrade) available to robots
+OpenComputers mod provides electrostatic power generation with
+[Carpeted Capacitor](/block/carpeted_capacitor) as well as with
+[Generator Upgrade](/item/generator_upgrade) available to robots and
+[Solar Generator Upgrade](/item/solar_generator_upgrade) available to robots
 and microcontrollers. Opencomputers devices can also be powered with
-energy equivalents of a [number of other
-mods](crossmod_interoperation#power).
+energy equivalents of a [number of other mods](crossmod_interoperation#power).
 
 ## Configurability
 
@@ -118,6 +117,5 @@ file. Not a fan of computers requiring power to run? Set their running
 cost to zero. Don't want power to play a role at all? Disable it
 completely! Think robots move too slow? Make 'em faster. Want bigger
 multi-block screens? Increase the maximum size. Just have a look at the
-[default configuration
-file](https://github.com/MightyPirates/OpenComputers/blob/master-MC1.7.10/src/main/resources/application.conf)
+[default configuration file](https://github.com/MightyPirates/OpenComputers/blob/master-MC1.7.10/src/main/resources/application.conf)
 to see all the options.
