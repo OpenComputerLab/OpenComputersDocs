@@ -6,11 +6,11 @@ tagline: This mod adds programmable, modular and persistent computers to the gam
 actionText: Quick Start →
 actionLink: /en/start.md
 features:
-- title: 模块化
-  details: 将会有各种硬件供玩家配置，比如说不同等级的机箱、不同等级的显示器
-- title: 昂贵
-  details: 计算机不再容易合成~
-- title: 易扩展
-  details: 作者给开发者制作了API，开发者可以很容易的使用API作出OC的扩展
+- title: Modularity
+  details: There is a different levels of hardware for players to configure
+- title: Expensive
+  details: Computers are no longer easy to make
+- title: Easy to expand
+  details: The author provides developers with many APIs
 footer: Powred By VuePress
 ---
