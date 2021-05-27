@@ -1,9 +1,9 @@
 # 快速开始
-OpenComputers是一个在游戏中加入计算机和机器人的 mod。
+OpenComputers是一个在 Minecraft 游戏中加入了计算机和机器人的模组。
 
 它可以用 [Lua](http://www.lua.org/) [5.3](http://www.lua.org/manual/5.3/manual.html) 进行编程。
 
-它采用了其他几个 mod 的创意，例如 ComputerCraft, StevesCarts 和 Modular Powersuits，并创造出了一些好玩的新东西。
+它采用了其他几个模组的创意，例如 ComputerCraft, StevesCarts 和 Modular Powersuits，并创造出了一些好玩的新东西。
 
 - [方块和物品](/#contents)
 - [Lua API](api)
@@ -13,5 +13,9 @@ OpenComputers是一个在游戏中加入计算机和机器人的 mod。
 - [官方网站](http://oc.cil.li/)
 - [游戏手册](https://oc.shadowkat.net/)
 
-## Connectivity
-OpenComputers 可以通过几种方法连接到 Minecraft 外的世界并与之互动：
+## 连接性
+OpenComputers 可以通过多种方式连接到 Minecraft 外的世界并与之互动：
+
+在彼此紧贴放置的情况下,大多数 OpenComputers 方块能够自动发现彼此并进行互动，你也可以使用 [线缆](/block/cable) 来连接相隔一段距离的它们。如果可能，你也可以通过多种网卡或交换机在逻辑上以有线和/或无线的形式连接或分离组件。
+
+来自原版或其他模组的方块可以使用[红石卡](/block/redstone_card)，[红石I/O方块](/block/redstone_io)或[适配器](/block/adapter)来连接。很多来自其它模组的特殊方块已经集成到了适配器中，比如来自BuildCraft，IndustrialCraft2 和 Thermal Expansion的方块，其他模组作者可以使用Java API来为他们的方块添加特殊处理。
