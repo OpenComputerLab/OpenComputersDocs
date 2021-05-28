@@ -3,7 +3,7 @@ OpenComputers是一个在 Minecraft 游戏中加入了计算机和机器人的�
 
 它可以用 [Lua](http://www.lua.org/) [5.3](http://www.lua.org/manual/5.3/manual.html) 进行编程。
 
-它采用了其他几个模组的创意，例如 ComputerCraft, StevesCarts 和 Modular Powersuits，并创造出了一些好玩的新东西。
+它采用了其他几个模组的创意，例如 ComputerCraft，StevesCarts 和 Modular Powersuits，并创造出了一些好玩的新东西。
 
 - [方块和物品](/#contents)
 - [Lua API](api)
