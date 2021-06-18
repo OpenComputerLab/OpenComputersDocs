@@ -39,7 +39,7 @@
     prevent the robot from moving forward, `false` otherwise. Drones
     return `true` even if the block is passable.
 
-**side** - See the [Sides API](/api/sides) for a list of possible sides.
+    **side** - See the [Sides API](/api/sides) for a list of possible sides.
 
 ## TankWorldControl Trait API
 

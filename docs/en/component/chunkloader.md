@@ -7,9 +7,9 @@ Component name: `chunkloader`. Callbacks:
 
 - `isActive():boolean`
 
-      Returns whether the chunkloader is currently active.
+    Returns whether the chunkloader is currently active.
 
 - `setActive(enabled:boolean):boolean`
 
-      Enables or disables the chunkloader. Returns the new state, which
-      may be false if no chunk loading ticket could be acquired.
+    Enables or disables the chunkloader. Returns the new state, which
+    may be false if no chunk loading ticket could be acquired.
