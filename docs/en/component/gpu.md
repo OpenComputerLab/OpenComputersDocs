@@ -129,11 +129,12 @@ number[, index]`
 	and copying them to the visible area when needed. Changing
 	resolution will change viewport to whole screen.
 
-- ~~`getSize(): number, number` Gets the size in blocks of the screen the
-	graphics card is bound to. For simple screens and robots this will be
-	one by one.~~
+- ~~`getSize(): number, number` ~~
+
+	Gets the size in blocks of the screen the graphics card is bound to.
+	For simple screens and robots this will be one by one.
 	
-	Deprecated, use`screen.getAspectRatio()` instead.
+	Deprecated, use `screen.getAspectRatio()` instead.
 
 - `get(x: number, y: number): string, number, number, number or nil, number or nil`
 

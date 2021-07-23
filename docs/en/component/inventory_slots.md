@@ -22,7 +22,7 @@ bottom-right. So for example the slot at index 1 is displayed in the
 top-left corner, the slot at index 2 is the next to the right and the
 first slot on the 2nd row is index 5.
 
-![robot_slotalign.png](/api/robot_slotalign.png)
+![](https://ocdoc.cil.li/_media/api:robot_slotalign.png)
 
 These are the slot indexes a robot uses on it self (for its own main
 inventory, an interview view).
@@ -51,6 +51,6 @@ The robot will not share all its inventory to all sides. Slot indexes
 **do not** change to these different sides. Slot 1, therefore, always
 refers to the first toolbelt slot, even when inaccessible to a side.
 
-- From its left side it share nothing. - From its right side it shares
-only its toolbelt slots (1-5) - From all other sides it shares only its
-main inventory slots (5-n)
+- From its left side it share nothing.
+- From its right side it shares only its toolbelt slots (1-5)
+- From all other sides it shares only its main inventory slots (5-n)
